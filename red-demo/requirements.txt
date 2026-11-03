@@ -1,0 +1,2 @@
+# Teaching-only planted vulnerable dependency for Task 4.
+urllib3==1.26.4
