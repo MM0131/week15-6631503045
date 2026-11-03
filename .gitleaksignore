@@ -1,0 +1,5 @@
+# Reviewed 2026-11-04: four public alice-token lab examples, not real credentials. Re-review before non-lab use.
+9b720953285911967b80ac7cd06b68a5a00c55d1:README-pipeline.md:curl-auth-header:91
+9b720953285911967b80ac7cd06b68a5a00c55d1:worksheet.md:curl-auth-header:59
+9b720953285911967b80ac7cd06b68a5a00c55d1:worksheet.md:curl-auth-header:77
+9b720953285911967b80ac7cd06b68a5a00c55d1:worksheet.md:curl-auth-header:96
